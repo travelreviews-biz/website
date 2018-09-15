@@ -3,7 +3,7 @@ title:  "Hilton at Gatwick"
 subtitle: "Never again"
 author: "Hadi Hariri"
 avatar: "img/authors/hadi.png"
-image: "img/hilton-gatwick.jpg"
+image: "img/hilton-gatwick.png"
 date:   2018-09-15 18:25:00
 ---
 
