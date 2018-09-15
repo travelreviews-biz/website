@@ -1,5 +1,5 @@
 ---
-title:  "Radisson Blue Oslo Plaza Hotel"
+title:  "Radisson Blu Oslo Plaza Hotel"
 subtitle: "Awesome views"
 author: "Hadi Hariri"
 avatar: "img/authors/hadi.png"
