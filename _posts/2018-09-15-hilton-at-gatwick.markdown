@@ -17,8 +17,6 @@ Swansea to Gatwick for an early flight to Oslo the next morning. I decided to st
 Now I've stayed at a few Hilton's in my life, but as the years go by, the number decreases (which is also reflected in my status with them). Why? Mainly because I feel many of them desperately need
 refurbishment. But this one at Gatwick was different. 
 
-Connected to the South Terminal.
-
 ### The Cons
 
 The room I was given was in horrendous condition. Knobs missing from shower, dirty walls, elements missing (as seen in the title picture), filthy chairs, ripped carpets. And worse off, right next to the elevator (which I hate).
