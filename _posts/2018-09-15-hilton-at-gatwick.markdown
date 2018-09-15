@@ -1,5 +1,5 @@
 ---
-title:  "Hilton at Gatwick"
+title:  "Hilton at Gatwick Airport"
 subtitle: "Never again"
 author: "Hadi Hariri"
 avatar: "img/authors/hadi.png"
