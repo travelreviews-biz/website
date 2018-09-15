@@ -27,7 +27,7 @@ Lastly, the Sky Bar on the 34th floor is fantastic. It offers a great view of th
 
 ![Sofa](img/radisson-blu-oslo-sofa.jpg)
 
-![Tea](img/radisson-blu-oslo-sofa.jpg)
+![Tea](img/radisson-blu-oslo-tea.jpg)
 
 ![toilet](img/radisson-blu-oslo-toilet.jpg)
 
