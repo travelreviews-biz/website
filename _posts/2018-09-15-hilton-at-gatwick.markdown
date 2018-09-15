@@ -7,6 +7,9 @@ image: "img/hilton-gatwick.jpg"
 date:   2018-09-15 18:25:00
 ---
 
+A place that is in bad need of a makeover
+
+### The Pros
 
 When I have a very early morning flight and I have the option to sleep near the airport, I do so. This was the case last week when I was traveling from
 Swansea to Gatwick for an early flight to Oslo the next morning. I decided to stay at the Hilton at Gatwick Airport, connected to the South Terminal. 
@@ -14,11 +17,9 @@ Swansea to Gatwick for an early flight to Oslo the next morning. I decided to st
 Now I've stayed at a few Hilton's in my life, but as the years go by, the number decreases (which is also reflected in my status with them). Why? Mainly because I feel many of them desperately need
 refurbishment. But this one at Gatwick was different. 
 
-## The Pros
-
 Connected to the South Terminal.
 
-## The Cons
+### The Cons
 
 The room I was given was in horrendous condition. Knobs missing from shower, dirty walls, elements missing (as seen in the title picture), filthy chairs, ripped carpets. And worse off, right next to the elevator (which I hate).
 
@@ -29,14 +30,13 @@ The room I was given was in horrendous condition. Knobs missing from shower, dir
 I'm not sure what the rest of the rooms are like, but after speaking to the manager and reaching out to them on Social Media, they indicated that
 their hotel is in the process of refurbishment. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you for choosing our hotel and please accept our sincere apologies that on this occasion we did not reach expectation. We have sent an email with more details on your issue. We are very pleased to advise that a major refurbishment is planned in the near future.</p>&mdash; Hilton Gatwick (@HiltonGatwick) <a href="https://twitter.com/HiltonGatwick/status/1039450475672883200?ref_src=twsrc%5Etfw">September 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![hilton-gatwick-tweet](img/hilton-gatwick-tweet.png)
 
 Ignoring the horrendous quality of the room, the usual amenities I like such as plugs next to the bed, a decent way to 
 switch the lights on and off without having to get out of bed, etc. all missing. 
 
 
-## The Verdict
+### The Verdict
 
 *Not recommended*
 
