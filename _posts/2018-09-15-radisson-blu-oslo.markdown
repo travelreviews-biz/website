@@ -25,11 +25,11 @@ there during a conference or event that's held either at the hotel or the Spektr
 
 Lastly, the Sky Bar on the 34th floor is fantastic. It offers a great view of the city and a relatively OK choice of drinks. But be prepared - it's not only Hotel prices, but Oslo prices, i.e. 140 NOK for a beer.
 
-![Sofa](img/radisson-blu-sofa.jpg)
+![Sofa](img/radisson-blu-oslo-sofa.jpg)
 
-![Tea](img/radisson-blu-sofa.jpg)
+![Tea](img/radisson-blu-oslo-sofa.jpg)
 
-![toilet](img/radisson-blu-toilet.jpg)
+![toilet](img/radisson-blu-oslo-toilet.jpg)
 
 ### The Cons
 
