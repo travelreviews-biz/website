@@ -14,10 +14,10 @@ A place that is in bad need of a makeover
 When I have a very early morning flight and I have the option to sleep near the airport, I do so. This was the case last week when I was traveling from
 Swansea to Gatwick for an early flight to Oslo the next morning. I decided to stay at the Hilton at Gatwick Airport, connected to the South Terminal. 
 
+### The Cons
+
 Now I've stayed at a few Hilton's in my life, but as the years go by, the number decreases (which is also reflected in my status with them). Why? Mainly because I feel many of them desperately need
 refurbishment. But this one at Gatwick was different. 
-
-### The Cons
 
 The room I was given was in horrendous condition. Knobs missing from shower, dirty walls, elements missing (as seen in the title picture), filthy chairs, ripped carpets. And worse off, right next to the elevator (which I hate).
 
